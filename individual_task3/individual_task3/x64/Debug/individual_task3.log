@@ -1,0 +1,5 @@
+﻿  individual_task3.cpp
+C:\Users\admin\Desktop\мехмат\4 курс\компьютерная графика\individual_task3\individual_task3\individual_task3.cpp(588,21): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+  individual_task3.vcxproj -> C:\Users\admin\Desktop\мехмат\4 курс\компьютерная графика\individual_task3\x64\Debug\individual_task3.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
